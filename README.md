@@ -1,4 +1,5 @@
 # Rock-Paper-Scissors-Odin-Project
+## You can see it here: https://klesiu.github.io/Rock-Paper-Scissors-Odin-Project/
 ## Work-time: Two days
 ## New skills:
 - Get to know what is return propety at JS.
